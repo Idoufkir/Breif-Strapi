@@ -1,0 +1,35 @@
+{
+  "name": "strapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "knex": "^0.95.6",
+    "sqlite3": "^5.0.2",
+    "strapi": "^3.6.5",
+    "strapi-connector-bookshelf": "^3.6.5",
+    "strapi-plugin-content-manager": "^3.6.5",
+    "strapi-plugin-email": "^3.6.5",
+    "strapi-plugin-i18n": "^3.6.5",
+    "strapi-plugin-upload": "^3.6.5",
+    "strapi-plugin-users-permissions": "^3.6.5",
+    "strapi-utils": "^3.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Idoufkir/Breif-Strapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Idoufkir/Breif-Strapi/issues"
+  },
+  "strapi": {
+    "uuid": "edjgf-shfge-dehfk-1337-hdzy-yyhz-iokm"
+  },
+  "homepage": "https://github.com/Idoufkir/Breif-Strapi#readme",
+  "description": ""
+}
